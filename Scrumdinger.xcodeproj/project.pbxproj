@@ -15,7 +15,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		C51103192FD010A1008CCEB9 /* Scrumdinger */ = {
+		C511033C2FD02CA0008CCEB9 /* Scrumdinger */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -37,7 +37,7 @@
 		C511030E2FD010A1008CCEB9 = {
 			isa = PBXGroup;
 			children = (
-				C51103192FD010A1008CCEB9 /* Scrumdinger */,
+				C511033C2FD02CA0008CCEB9 /* Scrumdinger */,
 				C51103182FD010A1008CCEB9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -66,7 +66,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				C51103192FD010A1008CCEB9 /* Scrumdinger */,
+				C511033C2FD02CA0008CCEB9 /* Scrumdinger */,
 			);
 			name = Scrumdinger;
 			packageProductDependencies = (
@@ -260,6 +260,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "Scrumdinger/Preview\\ Content";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -291,6 +292,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "Scrumdinger/Preview\\ Content";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
